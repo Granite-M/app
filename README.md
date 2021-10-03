@@ -43,6 +43,8 @@ $ git checkout 分支名
 # 将本地仓库推送的远程服务器
 $ git push -u origin main
 
+# 不需要自己合并分支的话  操作到此结束
+
 
 
 
