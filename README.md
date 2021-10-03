@@ -50,4 +50,5 @@ $ git push -u origin main
 
 # 合并分支 
 $ git merge 分支名
+$ git merge ZYD
 ```
