@@ -18,7 +18,10 @@ $ git branch
 $ git branch -M 分支名 
 
 # 拉取远程分支(更新)
-$ git pull origin 分支名
+$ git pull origin 分支名 
+# 更新所在仓库 同步到  ‘分支名 ’ 
+$ git pull origin main
+
 
 ```
 
