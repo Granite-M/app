@@ -7,11 +7,13 @@
 $ git clone https://github.com/jxsrzj0325/myapp.git
 
 # 设置远程服务器地址
-$ git remote add origin https://github.com/jxsrzj0325/myapp.git
+$ git remote add origin(origin 是自己起的名字) https://github.com/jxsrzj0325/myapp.git
 
 # 将本地仓库推送的远程服务器
 $ git push -u origin main
 
+# 查看分支名
+$ git branch
 # 修改分支名
 $ git branch -M 分支名 
 
